@@ -1,0 +1,601 @@
+[{
+        "rank": 1,
+        "name": "Kawhi Leonard",
+        "team": "Toronto Raptors",
+        "position": "SF"
+    },
+    {
+        "rank": 2,
+        "name": "Kevin Durant",
+        "team": "Golden State Warriors",
+        "position": "SF"
+    },
+    {
+        "rank": 3,
+        "name": "Giannis Antetokounmpo",
+        "team": "Milwaukee Bucks",
+        "position": "PF"
+    },
+    {
+        "rank": 4,
+        "name": "James Harden",
+        "team": "Houston Rockets",
+        "position": "SG"
+    },
+    {
+        "rank": 5,
+        "name": "Stephen Curry",
+        "team": "Golden State Warriors",
+        "position": "PG"
+    },
+    {
+        "rank": 6,
+        "name": "Paul George",
+        "team": "Oklahoma City Thunder",
+        "position": "SG"
+    },
+    {
+        "rank": 7,
+        "name": "Joel Embiid",
+        "team": "Philadelphia 76ers",
+        "position": "C"
+    },
+    {
+        "rank": 8,
+        "name": "Nikola Jokic",
+        "team": "Denver Nuggets",
+        "position": "C"
+    },
+    {
+        "rank": 9,
+        "name": "Anthony Davis",
+        "team": "New Orleans Pelicans",
+        "position": "C"
+    },
+    {
+        "rank": 10,
+        "name": "Damian Lillard",
+        "team": "Portland Trail Blazers",
+        "position": "PG"
+    },
+    {
+        "rank": 11,
+        "name": "Russell Westbrook",
+        "team": "Oklahoma City Thunder",
+        "position": "PG"
+    },
+    {
+        "rank": 12,
+        "name": "LeBron James",
+        "team": "Los Angeles Lakers",
+        "position": "SF"
+    },
+    {
+        "rank": 13,
+        "name": "Klay Thompson",
+        "team": "Golden State Warriors",
+        "position": "SG"
+    },
+    {
+        "rank": 14,
+        "name": "Kyrie Irving",
+        "team": "Boston Celtics",
+        "position": "PG"
+    },
+    {
+        "rank": 15,
+        "name": "Jimmy Butler",
+        "team": "Philadephia 76ers",
+        "position": "SF"
+    },
+    {
+        "rank": 16,
+        "name": "Kemba Walker",
+        "team": "Charlotte Hornets",
+        "position": "PG"
+    },
+    {
+        "rank": 17,
+        "name": "Rudy Gobert",
+        "team": "Utah Jazz",
+        "position": "C"
+    },
+    {
+        "rank": 18,
+        "name": "Karl-Anthony Towns",
+        "team": "Minnesota Timberwolves",
+        "position": "C"
+    },
+    {
+        "rank": 19,
+        "name": "Khris Middleton",
+        "team": "Milwaukee Bucks",
+        "position": "SG"
+    },
+    {
+        "rank": 20,
+        "name": "Nikola Vucevic",
+        "team": "Orlando Magic",
+        "position": "C"
+    },
+    {
+        "rank": 21,
+        "name": "Donovan Mitchell",
+        "team": "Utah Jazz",
+        "position": "SG"
+    },
+    {
+        "rank": 22,
+        "name": "DeMar DeRozan",
+        "team": "San Antonio Spurs",
+        "position": "SG"
+    },
+    {
+        "rank": 23,
+        "name": "Zach LaVine",
+        "team": "Chicago Bulls",
+        "position": "PG"
+    },
+    {
+        "rank": 24,
+        "name": "Draymond Green",
+        "team": "Golden State Warriors",
+        "position": "PF"
+    },
+    {
+        "rank": 25,
+        "name": "Devin Booker",
+        "team": "Phoenix Suns",
+        "position": "SG"
+    },
+    {
+        "rank": 26,
+        "name": "Luka Doncic",
+        "team": "Dallas Mavericks",
+        "position": "SF"
+    },
+    {
+        "rank": 27,
+        "name": "CJ McCollum",
+        "team": "Portland Trail Blazers",
+        "position": "SG"
+    },
+    {
+        "rank": 28,
+        "name": "Ben Simmons",
+        "team": "Philadelphia 76ers",
+        "position": "PG"
+    },
+    {
+        "rank": 29,
+        "name": "Jrue Holiday",
+        "team": "New Orleans Pelicans",
+        "position": "PG"
+    },
+    {
+        "rank": 30,
+        "name": "Pascal Siakam",
+        "team": "Toronto Raptors",
+        "position": "PF"
+    },
+    {
+        "rank": 31,
+        "name": "Tobias Harris",
+        "team": "Philadelphia 76ers",
+        "position": "PF"
+    },
+    {
+        "rank": 32,
+        "name": "Bradley Beal",
+        "team": "Washington Wizards",
+        "position": "SG"
+    },
+    {
+        "rank": 33,
+        "name": "Blake Griffin",
+        "team": "Detroit Pistons",
+        "position": "PF"
+    },
+    {
+        "rank": 34,
+        "name": "Clint Capela",
+        "team": "Houston Rockets",
+        "position": "C"
+    },
+    {
+        "rank": 35,
+        "name": "D'Angelo Russell",
+        "team": "Brooklyne Nets",
+        "position": "PG"
+    },
+    {
+        "rank": 36,
+        "name": "Lou Williams",
+        "team": "Los Angeles Clippers",
+        "position": "SG"
+    },
+    {
+        "rank": 37,
+        "name": "Mike Conley",
+        "team": "Memphis Grizzlies",
+        "position": "PG"
+    },
+    {
+        "rank": 38,
+        "name": "Julius Randle",
+        "team": "New Orleans Pelicans",
+        "position": "PF"
+    },
+    {
+        "rank": 39,
+        "name": "Gordon Hayward",
+        "team": "Boston Celtics",
+        "position": "SF"
+    },
+    {
+        "rank": 40,
+        "name": "Jamal Murray",
+        "team": "Denver Nuggets",
+        "position": "PG"
+    },
+    {
+        "rank": 41,
+        "name": "Andrew Wiggins",
+        "team": "Minnesota Timberwolves",
+        "position": "SF"
+    },
+    {
+        "rank": 42,
+        "name": "LaMarcus Aldridge",
+        "team": "San Antonio Spurs",
+        "position": "PF"
+    },
+    {
+        "rank": 43,
+        "name": "Kyle Lowry",
+        "team": "Toronto Raptors",
+        "position": "PG"
+    },
+    {
+        "rank": 44,
+        "name": "Trae Young",
+        "team": "Atlanta Hawks",
+        "position": "PG"
+    },
+    {
+        "rank": 45,
+        "name": "DeAndre Jordan",
+        "team": "New York Knicks",
+        "position": "C"
+    },
+    {
+        "rank": 46,
+        "name": "Jusuf Nurkic",
+        "team": "Portland Trail Blazers",
+        "position": "C"
+    },
+    {
+        "rank": 47,
+        "name": "Jayson Tatum",
+        "team": "Boston Celtics",
+        "position": "PF"
+    },
+    {
+        "rank": 48,
+        "name": "Kyle Kuzma",
+        "team": "Los Angeles Lakers",
+        "position": "PF"
+    },
+    {
+        "rank": 49,
+        "name": "Victor Oladipo",
+        "team": "Indiana Pacers",
+        "position": "PG"
+    },
+    {
+        "rank": 50,
+        "name": "Stevens Adams",
+        "team": "Oklahoma City Thunder",
+        "position": "C"
+    },
+    {
+        "rank": 51,
+        "name": "Tim Hardaway Jr.",
+        "team": "Dallas Mavericks",
+        "position": "PG"
+    },
+    {
+        "rank": 52,
+        "name": "Myles Turner",
+        "team": "Indiana Pacers",
+        "position": "C"
+    },
+    {
+        "rank": 53,
+        "name": "DeMarcus Cousins",
+        "team": "Golden State Warriors",
+        "position": "C"
+    },
+    {
+        "rank": 54,
+        "name": "Gary Harris",
+        "team": "Denver Nuggets",
+        "position": "SG"
+    },
+    {
+        "rank": 55,
+        "name": "Marc Gasol",
+        "team": "Toronto Raptors",
+        "position": "C"
+    },
+    {
+        "rank": 56,
+        "name": "Eric Bledsoe",
+        "team": "Milwaukee Bucks",
+        "position": "PG"
+    },
+    {
+        "rank": 57,
+        "name": "Kristaps Porzingis",
+        "team": "Dallas Mavericks",
+        "position": "PF"
+    },
+    {
+        "rank": 58,
+        "name": "John Wall",
+        "team": "Washington Wizards",
+        "position": "PG"
+    },
+    {
+        "rank": 59,
+        "name": "De'Aaron Fox",
+        "team": "Sacramento Kings",
+        "position": "PG"
+    },
+    {
+        "rank": 60,
+        "name": "DeAndre Ayton",
+        "team": "Phoenix Suns",
+        "position": "C"
+    },
+    {
+        "rank": 61,
+        "name": "Brook Lopez",
+        "team": "Milwaukee Bucks",
+        "position": "C"
+    },
+    {
+        "rank": 62,
+        "name": "JJ Redick",
+        "team": "Philadelphia 76ers",
+        "position": "SG"
+    },
+    {
+        "rank": 63,
+        "name": "Andre Drummond",
+        "team": "Detroit Pistons",
+        "position": "C"
+    },
+    {
+        "rank": 64,
+        "name": "Nikola Mirotic",
+        "team": "Milwaukee Bucks",
+        "position": "SF"
+    },
+    {
+        "rank": 65,
+        "name": "Joe Ingles",
+        "team": "Utah Jazz",
+        "position": "SF"
+    },
+    {
+        "rank": 66,
+        "name": "Buddy Hield",
+        "team": "Sacramento Kings",
+        "position": "SG"
+    },
+    {
+        "rank": 67,
+        "name": "Chris Paul",
+        "team": "Houston Rockets",
+        "position": "PG"
+    },
+    {
+        "rank": 68,
+        "name": "Lauri Markkanen",
+        "team": "Chicago Bulls",
+        "position": "PF"
+    },
+    {
+        "rank": 69,
+        "name": "Jaylen Brown",
+        "team": "Boston Celtics",
+        "position": "SG"
+    },
+    {
+        "rank": 70,
+        "name": "Malcolm Brogdon",
+        "team": "Milwaukee Bucks",
+        "position": "SG"
+    },
+    {
+        "rank": 71,
+        "name": "Caris LeVert",
+        "team": "Brooklyn Nets",
+        "position": "SG"
+    },
+    {
+        "rank": 72,
+        "name": "Enes Kanter",
+        "team": "Portland Trail Blazers",
+        "position": "C"
+    },
+    {
+        "rank": 73,
+        "name": "Danilo Gallinari",
+        "team": "Los Angeles Clippers",
+        "position": "SF"
+    },
+    {
+        "rank": 74,
+        "name": "Bojan Bogdanovic",
+        "team": "Indiana Pacers",
+        "position": "SF"
+    },
+    {
+        "rank": 75,
+        "name": "Aaron Gordon",
+        "team": "Orlando Magic",
+        "position": "PF"
+    },
+    {
+        "rank": 76,
+        "name": "John Collins",
+        "team": "Atlanta Hawks",
+        "position": "PF"
+    },
+    {
+        "rank": 77,
+        "name": "Montrezl Harrell",
+        "team": "Los Angeles Clippers",
+        "position": "PF"
+    },
+    {
+        "rank": 78,
+        "name": "Kevin Love",
+        "team": "Cleveland Cavaliers",
+        "position": "PF"
+    },
+    {
+        "rank": 79,
+        "name": "PJ Tucker",
+        "team": "Houston Rockets",
+        "position": "PF"
+    },
+    {
+        "rank": 80,
+        "name": "Dario Saric",
+        "team": "Minnesota Timberwolves",
+        "position": "PF"
+    },
+    {
+        "rank": 81,
+        "name": "Hassan Whiteside",
+        "team": "Miami Heat",
+        "position": "C"
+    },
+    {
+        "rank": 82,
+        "name": "Eric Gordon",
+        "team": "Houston Rockets",
+        "position": "SF"
+    },
+    {
+        "rank": 83,
+        "name": "Jordan Clarkson",
+        "team": "Cleveland Cavaliers",
+        "position": "PG"
+    },
+    {
+        "rank": 84,
+        "name": "Davis Bertans",
+        "team": "Washington Wizards",
+        "position": "SF"
+    },
+    {
+        "rank": 85,
+        "name": "Seth Curry",
+        "team": "Dallas Mavericks",
+        "position": "SG"
+    },
+    {
+        "rank": 86,
+        "name": "Collin Sexton",
+        "team": "Cleveland Cavaliers",
+        "position": "PG"
+    },
+    {
+        "rank": 87,
+        "name": "OG Anunoby",
+        "team": "Toronto Raptors",
+        "position": "SF"
+    },
+    {
+        "rank": 88,
+        "name": "Al Horford",
+        "team": "Philadelphia 76ers",
+        "position": "PF"
+    },
+    {
+        "rank": 89,
+        "name": "Marc Gasol",
+        "team": "Toronto Raptors",
+        "position": "C"
+    },
+    {
+        "rank": 90,
+        "name": "Bojan Bogdanovic",
+        "team": "Utah Jazz",
+        "position": "SF"
+    },
+    {
+        "rank": 91,
+        "name": "Danny Green",
+        "team": "Los Angeles Lakers",
+        "position": "SG"
+    },
+    {
+        "rank": 92,
+        "name": "Jonas Valanciunas",
+        "team": "Memphis Grizzlies",
+        "position": "C"
+    },
+    {
+        "rank": 93,
+        "name": "Carmelo Anthony",
+        "team": "Portland Trail Blazers",
+        "position": "PF"
+    },
+    {
+        "rank": 94,
+        "name": "Hassan Whiteside",
+        "team": "Portland Trail Blazers",
+        "position": "C"
+    },
+    {
+        "rank": 95,
+        "name": "Derrick Rose",
+        "team": "San Antonio Spurs",
+        "position": "PG"
+    },
+    {
+        "rank": 96,
+        "name": "Derrick White",
+        "team": "San Antonio Spurs",
+        "position": "PG"
+    },
+    {
+        "rank": 97,
+        "name": "Kevin Love",
+        "team": "Cleveland Cavaliers",
+        "position": "PF"
+    },
+    {
+        "rank": 98,
+        "name": "Devonte Graham",
+        "team": "Charlotte Hornets",
+        "position": "PG"
+    },
+    {
+        "rank": 99,
+        "name": "Mikal Bridges",
+        "team": "Phoenix Suns",
+        "position": "SF"
+    },
+    {
+        "rank": 100,
+        "name": "Dejounte Murray",
+        "team": "San Antonio Spurs",
+        "position": "PG"
+    }
+]

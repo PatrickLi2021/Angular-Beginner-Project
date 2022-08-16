@@ -1,4 +1,9 @@
 <h2>Player Rankings</h2>
-<div *ngFor="let player of soccerPlayers">
-    <div>{{ player.rank }}. {{ player.player }}</div>
+
+<div>
+    <router-outlet></router-outlet>
+    <button (click)="show2018()">2018-2019</button>
+    <button (click)="show2019()">2019-2020</button>
+    <button (click)="show2020()">2020-2021</button>
+    <button (click)="show2021()">2021-2022</button>
 </div>

@@ -1,0 +1,601 @@
+[{
+        "rank": 1,
+        "player": "Robert Lewandowski",
+        "club": "Bayern Munich",
+        "country": "Poland"
+    },
+    {
+        "rank": 2,
+        "player": "Kevin de Bruyne",
+        "club": "Manchester United",
+        "country": "Belgium"
+    },
+    {
+        "rank": 3,
+        "player": "Lionel Messi",
+        "club": "FC Barcelona",
+        "country": "Argentina"
+    },
+    {
+        "rank": 4,
+        "player": "Cristiano Ronaldo",
+        "club": "Juventus",
+        "country": "Portugal"
+    },
+    {
+        "rank": 5,
+        "player": "Sadio Mane",
+        "club": "Liverpool",
+        "country": "Senegal"
+    },
+    {
+        "rank": 6,
+        "player": "Kylian Mbappe",
+        "club": "Paris Saint-Germain",
+        "country": "France"
+    },
+    {
+        "rank": 7,
+        "player": "Raheem Sterling",
+        "club": "Manchester City",
+        "country": "England"
+    },
+    {
+        "rank": 8,
+        "player": "Mohamed Salah",
+        "club": "Liverpool",
+        "country": "Egypt"
+    },
+    {
+        "rank": 9,
+        "player": "Thomas Muller",
+        "club": "Bayern Munich",
+        "country": "Germany"
+    },
+    {
+        "rank": 10,
+        "player": "Jan Oblak",
+        "club": "Atletico Madrid",
+        "country": "Slovenia"
+    },
+    {
+        "rank": 11,
+        "player": "Ciro Immobile",
+        "club": "SS Lazio",
+        "country": "Italy"
+    },
+    {
+        "rank": 12,
+        "player": "Timo Werner",
+        "club": "RB Leipzig (to Chelsea)",
+        "country": "Germany"
+    },
+    {
+        "rank": 13,
+        "player": "Jordan Henderson",
+        "club": "Liverpool",
+        "country": "England"
+    },
+    {
+        "rank": 14,
+        "player": "Bruno Fernandes",
+        "club": "Manchester United",
+        "country": "Portugal"
+    },
+    {
+        "rank": 15,
+        "player": "Virgil van Dijk",
+        "club": "Liverpool",
+        "country": "Netherlands"
+    },
+    {
+        "rank": 16,
+        "player": "Neymar Jr.",
+        "club": "Paris Saint-Germain",
+        "country": "Brazil"
+    },
+    {
+        "rank": 17,
+        "player": "Jamie Vardy",
+        "club": "Leicester City",
+        "country": "England"
+    },
+    {
+        "rank": 18,
+        "player": "Pierre-Emerick Aubameyang",
+        "club": "Arsenal",
+        "country": "Gabon"
+    },
+    {
+        "rank": 19,
+        "player": "Erling Haaland",
+        "club": "Borussia Dortmund",
+        "country": "Norway"
+    },
+    {
+        "rank": 20,
+        "player": "Karim Benzema",
+        "club": "Real Madrid",
+        "country": "France"
+    },
+    {
+        "rank": 21,
+        "player": "Harry Kane",
+        "club": "Tottenham Hotspur",
+        "country": "England"
+    },
+    {
+        "rank": 22,
+        "player": "Roberto Firmino",
+        "club": "Liverpool",
+        "country": "Brazil"
+    },
+    {
+        "rank": 23,
+        "player": "Jadon Sancho",
+        "club": "Borussia Dortmund",
+        "country": "England"
+    },
+    {
+        "rank": 24,
+        "player": "Trent Alexander-Arnold",
+        "club": "Liverpool",
+        "country": "England"
+    },
+    {
+        "rank": 25,
+        "player": "Josip Ilicic",
+        "club": "Atalanta",
+        "country": "Slovenia"
+    },
+    {
+        "rank": 26,
+        "player": "Sergio Ramos",
+        "club": "Real Madrid",
+        "country": "Spain"
+    },
+    {
+        "rank": 27,
+        "player": "Kalidou Koulibaly",
+        "club": "Napoli",
+        "country": "Senegal"
+    },
+    {
+        "rank": 28,
+        "player": "Angel Di Maria",
+        "club": "Paris Saint-Germain",
+        "country": "Argentina"
+    },
+    {
+        "rank": 29,
+        "player": "Paulo Dybala",
+        "club": "Juventus",
+        "country": "Argentina"
+    },
+    {
+        "rank": 30,
+        "player": "Alphonso Davies",
+        "club": "Bayern Munich",
+        "country": "Canada"
+    },
+    {
+        "rank": 31,
+        "player": "Romelu Lukaku",
+        "club": "Inter Milan",
+        "country": "Belgium"
+    },
+    {
+        "rank": 32,
+        "player": "Serge Gnabry",
+        "club": "Bayern Munich",
+        "country": "Germany"
+    },
+    {
+        "rank": 33,
+        "player": "Andrew Robertson",
+        "club": "Liverpool",
+        "country": "Scotland"
+    },
+    {
+        "rank": 34,
+        "player": "Manuel Neuer",
+        "club": "Bayern Munich",
+        "country": "Germany"
+    },
+    {
+        "rank": 35,
+        "player": "Thibaut Courtois",
+        "club": "Real Madrid",
+        "country": "Belgium"
+    },
+    {
+        "rank": 36,
+        "player": "Alisson Becker",
+        "club": "Liverpool",
+        "country": "Brazil"
+    },
+    {
+        "rank": 37,
+        "player": "Riyad Mahrez",
+        "club": "Manchester City",
+        "country": "Algeria"
+    },
+    {
+        "rank": 38,
+        "player": "Frenkie de Jong",
+        "club": "FC Barcelona",
+        "country": "Netherlands"
+    },
+    {
+        "rank": 39,
+        "player": "Keylor Navas",
+        "club": "Paris Saint-Germain",
+        "country": "Costa Rica"
+    },
+    {
+        "rank": 40,
+        "player": "Marcus Rashford",
+        "club": "Manchester United",
+        "country": "England"
+    },
+    {
+        "rank": 41,
+        "player": "Sergio Aguero",
+        "club": "Manchester City",
+        "country": "Argentina"
+    },
+    {
+        "rank": 42,
+        "player": "N'golo Kante",
+        "club": "Chelsea",
+        "country": "France"
+    },
+    {
+        "rank": 43,
+        "player": "Joshua Kimmich",
+        "club": "Bayern Munich",
+        "country": "Germany"
+    },
+    {
+        "rank": 44,
+        "player": "Lautaro Martinez",
+        "club": "Inter Milan",
+        "country": "Argentina"
+    },
+    {
+        "rank": 45,
+        "player": "Kai Havertz",
+        "club": "Bayer Leverkusen",
+        "country": "Germany"
+    },
+    {
+        "rank": 46,
+        "player": "Alejandro Gomez",
+        "club": "Atalanta",
+        "country": "Argentina"
+    },
+    {
+        "rank": 47,
+        "player": "Achraf Hakimi",
+        "club": "Borussia Dortmund",
+        "country": "Morocco"
+    },
+    {
+        "rank": 48,
+        "player": "Hakim Ziyech",
+        "club": "Ajax (to Chelsea)",
+        "country": "Morocco"
+    },
+    {
+        "rank": 49,
+        "player": "Raul Jimenez",
+        "club": "Wolves",
+        "country": "Mexico"
+    },
+    {
+        "rank": 50,
+        "player": "Danny Ings",
+        "club": "Southampton",
+        "country": "England"
+    },
+    {
+        "rank": 51,
+        "player": "Adama Traore",
+        "club": "Wolves",
+        "country": "Spain"
+    },
+    {
+        "rank": 52,
+        "player": "Son Heung-Min",
+        "club": "Tottenham Hotspur",
+        "country": "South Korea"
+    },
+    {
+        "rank": 53,
+        "player": "Toni Kroos",
+        "club": "Real Madrid",
+        "country": "Germany"
+    },
+    {
+        "rank": 54,
+        "player": "Wissam Ben Yedder",
+        "club": "AS Monaco",
+        "country": "France"
+    },
+    {
+        "rank": 55,
+        "player": "Dries Mertens",
+        "club": "Napoli",
+        "country": "Belgium"
+    },
+    {
+        "rank": 56,
+        "player": "Aymeric Laporte",
+        "club": "Manchester City",
+        "country": "Spain (originally France)"
+    },
+    {
+        "rank": 57,
+        "player": "Bernardo Silva",
+        "club": "Manchester City",
+        "country": "Portugal"
+    },
+    {
+        "rank": 58,
+        "player": "Marc-Andre ter Stegen",
+        "club": "FC Barcelona",
+        "country": "Germany"
+    },
+    {
+        "rank": 59,
+        "player": "Mauro Icardi",
+        "club": "Paris Saint-Germain",
+        "country": "Argentina"
+    },
+    {
+        "rank": 60,
+        "player": "Luka Modric",
+        "club": "Real Madrid",
+        "country": "Croatia"
+    },
+    {
+        "rank": 61,
+        "player": "Milan Skriniar",
+        "club": "Inter Milan",
+        "country": "Slovakia"
+    },
+    {
+        "rank": 62,
+        "player": "Kingsley Coman",
+        "club": "Bayern Munich",
+        "country": "France"
+    },
+    {
+        "rank": 63,
+        "player": "Anthony Martial",
+        "club": "Manchester United",
+        "country": "France"
+    },
+    {
+        "rank": 64,
+        "player": "Caglar Soyuncu",
+        "club": "Leicester City",
+        "country": "Turkey"
+    },
+    {
+        "rank": 65,
+        "player": "Dayot Upamecano",
+        "club": "RB Leipzig",
+        "country": "France"
+    },
+    {
+        "rank": 66,
+        "player": "Aaron Wan-Bissaka",
+        "club": "Manchester United",
+        "country": "England"
+    },
+    {
+        "rank": 67,
+        "player": "Rodri",
+        "club": "Manchester City",
+        "country": "Spain"
+    },
+    {
+        "rank": 68,
+        "player": "Casemiro",
+        "club": "Real Madrid",
+        "country": "Brazil"
+    },
+    {
+        "rank": 69,
+        "player": "Marcus Thuram",
+        "club": "Borussia Monchengladbach",
+        "country": "France"
+    },
+    {
+        "rank": 70,
+        "player": "James Maddison",
+        "club": "Leicester City",
+        "country": "England"
+    },
+    {
+        "rank": 71,
+        "player": "Raphael Varane",
+        "club": "Manchester United",
+        "country": "France"
+    },
+    {
+        "rank": 72,
+        "player": "Fabinho",
+        "club": "Liverpool",
+        "country": "Brazil"
+    },
+    {
+        "rank": 73,
+        "player": "Dimitri Payet",
+        "club": "Marseille",
+        "country": "France"
+    },
+    {
+        "rank": 74,
+        "player": "Dean Henderson",
+        "club": "Sheffield United",
+        "country": "England"
+    },
+    {
+        "rank": 75,
+        "player": "Sergio Busquets",
+        "club": "FC Barcelona",
+        "country": "Spain"
+    },
+    {
+        "rank": 76,
+        "player": "Diego Carlos",
+        "club": "Sevilla",
+        "country": "Brazil"
+    },
+    {
+        "rank": 77,
+        "player": "Idrissa Gueye",
+        "club": "Paris Saint-Germain",
+        "country": "Senegal"
+    },
+    {
+        "rank": 78,
+        "player": "Marquinhos",
+        "club": "Paris Saint-Germain",
+        "country": "Brazil"
+    },
+    {
+        "rank": 79,
+        "player": "Luis Suarez",
+        "club": "FC Barcelona",
+        "country": "Uruguay"
+    },
+    {
+        "rank": 80,
+        "player": "Nick Pope",
+        "club": "Burnley",
+        "country": "England"
+    },
+    {
+        "rank": 81,
+        "player": "Luis Alberto",
+        "club": "Lazio",
+        "country": "Spain"
+    },
+    {
+        "rank": 82,
+        "player": "David Silva",
+        "club": "Manchester City",
+        "country": "Spain"
+    },
+    {
+        "rank": 83,
+        "player": "Mateo Kovacic",
+        "club": "Chelsea",
+        "country": "Croatia"
+    },
+    {
+        "rank": 84,
+        "player": "Paul Pogba",
+        "club": "Manchester United",
+        "country": "France"
+    },
+    {
+        "rank": 85,
+        "player": "Ederson",
+        "club": "Manchester City",
+        "country": "Brazil"
+    },
+    {
+        "rank": 86,
+        "player": "David Alaba",
+        "club": "Bayern Munich",
+        "country": "Austria"
+    },
+    {
+        "rank": 87,
+        "player": "Duvan Zapata",
+        "club": "Atalanta",
+        "country": "Colombia"
+    },
+    {
+        "rank": 88,
+        "player": "Tammy Abraham",
+        "club": "Chelsea",
+        "country": "England"
+    },
+    {
+        "rank": 89,
+        "player": "Mason Greenwood",
+        "club": "Manchester United",
+        "country": "England"
+    },
+    {
+        "rank": 90,
+        "player": "Marco Verratti",
+        "club": "Paris Saint-Germain",
+        "country": "Italy"
+    },
+    {
+        "rank": 91,
+        "player": "Eden Hazard",
+        "club": "Real Madrid",
+        "country": "Belgium"
+    },
+    {
+        "rank": 92,
+        "player": "Miralem Pjanic",
+        "club": "Juventus",
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "rank": 93,
+        "player": "Matthijs de Ligt",
+        "club": "Juventus",
+        "country": "Netherlands"
+    },
+    {
+        "rank": 94,
+        "player": "Harry Maguire",
+        "club": "Manchester United",
+        "country": "England"
+    },
+    {
+        "rank": 95,
+        "player": "Georginio Wijnaldum",
+        "club": "Liverpool",
+        "country": "Netherlands"
+    },
+    {
+        "rank": 96,
+        "player": "Antoine Griezmann",
+        "club": "FC Barcelona",
+        "country": "France"
+    },
+    {
+        "rank": 97,
+        "player": "Phil Foden",
+        "club": "Manchester City",
+        "country": "England"
+    },
+    {
+        "rank": 98,
+        "player": "Christian Pulisic",
+        "club": "Chelsea",
+        "country": "United States"
+    },
+    {
+        "rank": 99,
+        "player": "Marcel Sabitzer",
+        "club": "RB Leipzig",
+        "country": "Austria"
+    },
+    {
+        "rank": 100,
+        "player": "Ricardo Pereira",
+        "club": "Leicester City",
+        "country": "Portugal"
+    }
+]
